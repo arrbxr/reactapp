@@ -1,6 +1,7 @@
-"homepage": "https://arrbxr.github.io/reactapp"
+
 {
   "name": "teza",
+  "homepage": "https://arrbxr.github.io/reactapp"
   "version": "0.1.0",
   "private": true,
   "dependencies": {
