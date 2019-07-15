@@ -1,9 +1,9 @@
 
 {
   "name": "teza",
-  "homepage": "https://arrbxr.github.io/reactapp",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://arrbxr.github.io/reactapp",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
